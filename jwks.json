@@ -1,12 +1,12 @@
 {
   "keys": [
     {
-      "e": "AQAB",
-      "kid": "my-system-app-key",
       "kty": "RSA",
-      "n": "wuhAowfyQSPgbW311aYeA2fOFY_O33eZDlNQinKx6tz93D2nEG1J84QArHi0cuZzCWa5N5FCPeQPrdDCIs7p1OaApIM7t6fNxiBEmW1RV3a6O9dkOuvkkrHTdKv8DQaeC6cr4E8Jc0biU-GToEqsqLO8touX80qetdDcHga_QLxgD_4jaFg8XJHw03Z0gFtFgM40ijGMwNjbvswYOoxrqFgFsicy6DilrotJH8VHHZXCo1Jl88PLR2sfLXXpneFb339U6I10albKiLRlGYQbSrVz9L-RtpzDOWOM9KrLH1V5DinJ75APROETpjd2OhtpWIROdmxA2L5Vz9wpo_5jNQ",
       "use": "sig",
-      "alg": "RS256"
+      "alg": "RS256",
+      "kid": "my\u2011system\u2011app\u2011key",
+      "n": "rtuLmcit42YUnv8pLbpJdQRh8u-vEIKKDk_VphQsHnTzvPpLO-qw_Yrifj9eQlk4AZbdpCaf3O2DVAdNUA-z-CW425Y8Pp9hFUuVKWEgGVzIAv8xaPKcSPmGVjkU1WebUwzgLK8ZXscVIR88bYYC4NdLnGP_oXi7I87ZPU5hXm2V1iD_nyKlaG3SJzSyqSqCkOhA60gH0ztiQwbzqwqMQoDcddXetsZni88pU_tZdc9zKxFDKHtq4eefOvlHNbtHnSnlRwZUPYkG_4c8bG3GxLlkFi_eRktbEQxIPNolh7uSdeQck2GDy_IlEMLXSmgPOKbo9iwolsjtgvRMTp4XfQ",
+      "e": "AQAB"
     }
   ]
 }
